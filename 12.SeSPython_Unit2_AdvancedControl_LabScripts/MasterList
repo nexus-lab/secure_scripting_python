@@ -1,0 +1,730 @@
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  560 Jan 28 14:15 scan3.py
+ 28c6bfef2170f1ff4dfac86f264965a1bf78c579  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 8 -rw-r--r--  1 cservin  staff  3493 Jan 28 14:18 MasterList
+ edcc6847acf7a2119ae0a9ccf3d5fb6e1b06bbeb  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  717 Jan 28 14:18 scan3.py
+ 19c2b09f88862f6e1ec3f3df61f25ccf3b212d20  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 16 -rw-r--r--  1 cservin  staff  6874 Jan 28 14:19 MasterList
+ 4001909e7ef978b0332e78025cacd0443338f128  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  709 Jan 28 14:19 scan3.py
+ ac093c2a0b91c5eccb24dc89c675001df86c5d2a  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 24 -rw-r--r--  1 cservin  staff  10256 Jan 28 14:19 MasterList
+ 06838e271bb3a893aa7d5749c45588a9bef62e6a  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  709 Jan 28 14:19 scan3.py
+ ac093c2a0b91c5eccb24dc89c675001df86c5d2a  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 32 -rw-r--r--  1 cservin  staff  13639 Jan 28 14:21 MasterList
+ c497e18bc3f1451ddd1b2b98ca62cf85a68931d4  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  739 Jan 28 14:21 scan3.py
+ 02eb80454789b890ddc7c06909321fa00e5a4b2f  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 40 -rw-r--r--  1 cservin  staff  17022 Jan 28 14:21 MasterList
+ a8d4e943a568848b9c7c69564485245eb501f514  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  744 Jan 28 14:21 scan3.py
+ 8bdc4373c5ddbabc68a4ac39b7962cde02a1e21b  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 40 -rw-r--r--  1 cservin  staff  20405 Jan 28 14:22 MasterList
+ 7a026b5432c66e81c92d3dbf7f73a60fb1db28fa  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  744 Jan 28 14:22 scan3.py
+ 9d101a20f333fea7d569fd3d4af6cfafb9c1f2ef  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:14 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 48 -rw-r--r--  1 cservin  staff  23788 Jan 28 14:22 MasterList
+ 870f458ee7a8e00668bddb823fff06d89ca44313  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  739 Jan 28 14:22 scan3.py
+ 19563b294c1e381df130fcfb2a1fad98fa2ca69f  scan3.py
+23850031 8 -rwxr-xr-x@ 1 cservin  staff  187 Mar 31  2017 scan3.sh
+ f6c70a38dcbae7c388574a204dd51acbb0c18fbb  scan3.sh
+23850032 8 -rwxr-xr-x@ 1 cservin  staff  110 Mar 31  2017 scan3a.sh
+ 12bad1c6eef7d244ed6c82f988a9b313c8b6e78b  scan3a.sh
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:27 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 56 -rw-r--r--  1 cservin  staff  27171 Jan 28 14:30 MasterList
+ 41a49e0c9a9e7a4d8b6ad360bb87b8d6694c9dd5  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  739 Jan 28 14:22 scan3.py
+ 19563b294c1e381df130fcfb2a1fad98fa2ca69f  scan3.py
+23867106 8 -rwxr-xr-x@ 1 cservin  staff  384 Jan 28 14:27 scan3a.py
+ 1bef4031577af8984c7879cec3ea88c251b9cd89  scan3a.py
+23867157 8 -rwxr-xr-x@ 1 cservin  staff  434 Jan 28 14:29 scan3b.py
+ d84dcfa9336407bce71f0730fc5b7c78a9918bab  scan3b.py
+23850033 8 -rwxr-xr-x@ 1 cservin  staff  155 Mar 31  2017 scan3b.sh
+ 6d61e50536c45c65dbc93c5c63402b92f57cd5f1  scan3b.sh
+23867249 8 -rwxr-xr-x@ 1 cservin  staff  478 Jan 28 14:30 scan3c.py
+ 51a3e7b52f5ab15d3c323282ed715dbfb5602057  scan3c.py
+23850034 8 -rwxr-xr-x@ 1 cservin  staff  165 Mar 31  2017 scan3c.sh
+ f1e283682fa5995cf1707d025bf1bf73e657e92c  scan3c.sh
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:31 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 64 -rw-r--r--  1 cservin  staff  30677 Jan 28 14:32 MasterList
+ a7431fca490e412a35a9a1d6d24781684206d001  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  739 Jan 28 14:22 scan3.py
+ 19563b294c1e381df130fcfb2a1fad98fa2ca69f  scan3.py
+23867106 8 -rwxr-xr-x@ 1 cservin  staff  384 Jan 28 14:27 scan3a.py
+ 1bef4031577af8984c7879cec3ea88c251b9cd89  scan3a.py
+23867157 8 -rwxr-xr-x@ 1 cservin  staff  434 Jan 28 14:29 scan3b.py
+ d84dcfa9336407bce71f0730fc5b7c78a9918bab  scan3b.py
+23867249 8 -rwxr-xr-x@ 1 cservin  staff  478 Jan 28 14:30 scan3c.py
+ 51a3e7b52f5ab15d3c323282ed715dbfb5602057  scan3c.py
+23867287 8 -rwxr-xr-x@ 1 cservin  staff  643 Jan 28 14:32 scan3d.py
+ c7fb0af186aa7aeca66a883088beb6e56bd47a73  scan3d.py
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:31 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 72 -rw-r--r--  1 cservin  staff  34062 Jan 28 14:37 MasterList
+ 76d773852168fb23cc747a151cbb32c9471779d8  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  723 Jan 28 14:33 scan3.py
+ f634a83d1c55c36b83ac374694013c100fea23bf  scan3.py
+23867106 8 -rwxr-xr-x@ 1 cservin  staff  384 Jan 28 14:27 scan3a.py
+ 1bef4031577af8984c7879cec3ea88c251b9cd89  scan3a.py
+23867157 8 -rwxr-xr-x@ 1 cservin  staff  434 Jan 28 14:29 scan3b.py
+ d84dcfa9336407bce71f0730fc5b7c78a9918bab  scan3b.py
+23867249 8 -rwxr-xr-x@ 1 cservin  staff  478 Jan 28 14:30 scan3c.py
+ 51a3e7b52f5ab15d3c323282ed715dbfb5602057  scan3c.py
+23867287 8 -rwxr-xr-x@ 1 cservin  staff  643 Jan 28 14:32 scan3d.py
+ c7fb0af186aa7aeca66a883088beb6e56bd47a73  scan3d.py
+23850035 8 -rwxr-xr-x@ 1 cservin  staff  209 Mar 31  2017 scan3d.sh
+ 9eb391f6b24955303a18192fc45f85c05ff6d5eb  scan3d.sh
+23867378 8 -rwxr-xr-x@ 1 cservin  staff  745 Jan 28 14:37 scan3e.py
+ 606151906d86bfdb2926f5292a38f29c9a5c80a2  scan3e.py
+23850036 8 -rwxr-xr-x@ 1 cservin  staff  309 Mar 31  2017 scan3e.sh
+ ae7baf3181d2e5ecbab8720f4cd0e770129d0162  scan3e.sh
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:37 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 80 -rw-r--r--  1 cservin  staff  37568 Jan 28 14:39 MasterList
+ f2164d2f9d065adebfc61df93af58674d76086a7  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  723 Jan 28 14:33 scan3.py
+ f634a83d1c55c36b83ac374694013c100fea23bf  scan3.py
+23867106 8 -rwxr-xr-x@ 1 cservin  staff  384 Jan 28 14:27 scan3a.py
+ 1bef4031577af8984c7879cec3ea88c251b9cd89  scan3a.py
+23867157 8 -rwxr-xr-x@ 1 cservin  staff  434 Jan 28 14:29 scan3b.py
+ d84dcfa9336407bce71f0730fc5b7c78a9918bab  scan3b.py
+23867249 8 -rwxr-xr-x@ 1 cservin  staff  478 Jan 28 14:30 scan3c.py
+ 51a3e7b52f5ab15d3c323282ed715dbfb5602057  scan3c.py
+23867287 8 -rwxr-xr-x@ 1 cservin  staff  643 Jan 28 14:32 scan3d.py
+ c7fb0af186aa7aeca66a883088beb6e56bd47a73  scan3d.py
+23867378 8 -rwxr-xr-x@ 1 cservin  staff  745 Jan 28 14:37 scan3e.py
+ 606151906d86bfdb2926f5292a38f29c9a5c80a2  scan3e.py
+23867446 8 -rwxr-xr-x@ 1 cservin  staff  854 Jan 28 14:38 scan3f.py
+ 3392458b2315b45e60d70ca5a46225d3218f9542  scan3f.py
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
+23850993 16 -rw-r--r--@ 1 cservin  staff  6148 Jan 28 14:37 .DS_Store
+ df2fbeb1400acda0909a32c1cf6bf492f1121e07  .DS_Store
+23850060 672 -rw-r--r--@ 1 cservin  staff  0 Jan 28 00:48 Icon
+ da39a3ee5e6b4b0d3255bfef95601890afd80709  Icon
+23866853 80 -rw-r--r--  1 cservin  staff  40953 Jan 28 14:39 MasterList
+ 19b8ee6c05facec2e1be189530ac1cd17541dde8  MasterList
+23850133 8 -rwxr-xr-x@ 1 cservin  staff  494 Jan 28 01:00 scan1.py
+ ea298ca1bdca093661d19c1e88d7212a76bc42ff  scan1.py
+23850697 8 -rwxr-xr-x@ 1 cservin  staff  263 Jan 28 01:18 scan2a.py
+ 75533cec07f2e4cf190bda7741f2b7de6b601734  scan2a.py
+23850949 8 -rwxr-xr-x@ 1 cservin  staff  222 Jan 28 01:26 scan2b.py
+ 831dde6dbfbee8bc33305ca975c2e65736ff6c00  scan2b.py
+23851562 8 -rwxr-xr-x@ 1 cservin  staff  509 Jan 28 01:35 scan2c.py
+ db20e079f4fffd8aaec38563500a4b31367f1990  scan2c.py
+23865903 8 -rwxr-xr-x@ 1 cservin  staff  551 Jan 28 14:02 scan2d.py
+ 98156b75e78a27f5eadd5540c061ea0bb0e302c7  scan2d.py
+23866418 8 -rwxr-xr-x@ 1 cservin  staff  566 Jan 28 14:04 scan2e.py
+ 0456385f17c71a45db1de60330c5c20af21ca73c  scan2e.py
+23866655 8 -rwxr-xr-x@ 1 cservin  staff  723 Jan 28 14:33 scan3.py
+ f634a83d1c55c36b83ac374694013c100fea23bf  scan3.py
+23867106 8 -rwxr-xr-x@ 1 cservin  staff  384 Jan 28 14:27 scan3a.py
+ 1bef4031577af8984c7879cec3ea88c251b9cd89  scan3a.py
+23867157 8 -rwxr-xr-x@ 1 cservin  staff  434 Jan 28 14:29 scan3b.py
+ d84dcfa9336407bce71f0730fc5b7c78a9918bab  scan3b.py
+23867249 8 -rwxr-xr-x@ 1 cservin  staff  478 Jan 28 14:30 scan3c.py
+ 51a3e7b52f5ab15d3c323282ed715dbfb5602057  scan3c.py
+23867287 8 -rwxr-xr-x@ 1 cservin  staff  643 Jan 28 14:32 scan3d.py
+ c7fb0af186aa7aeca66a883088beb6e56bd47a73  scan3d.py
+23867378 8 -rwxr-xr-x@ 1 cservin  staff  745 Jan 28 14:37 scan3e.py
+ 606151906d86bfdb2926f5292a38f29c9a5c80a2  scan3e.py
+23867446 8 -rwxr-xr-x@ 1 cservin  staff  864 Jan 28 14:39 scan3f.py
+ d4ef09276e21dcbd81aee7142f05ef87842f3a91  scan3f.py
+23850037 8 -rwxr-xr-x@ 1 cservin  staff  319 Mar 31  2017 scan3f.sh
+ 2da57cde23f3eed0dd54781b6396128876896e4e  scan3f.sh
+23850038 8 -rwxr-xr-x@ 1 cservin  staff  591 Mar 31  2017 scan4.sh
+ 4f1ca27ae88654ad446f420a990c6acda68c9885  scan4.sh
+23850039 8 -rwxr-xr-x@ 1 cservin  staff  1234 Apr 17  2017 scan5.sh
+ c8e884f8c32e2f18f927ab187f3d9a5fc9ba87c2  scan5.sh
+23850040 8 -rwxr-xr-x@ 1 cservin  staff  621 Mar 31  2017 scan5a.sh
+ 982ef78aa1acef4a8323ef737acf45edf17d6e45  scan5a.sh
+23850041 8 -rwxr-xr-x@ 1 cservin  staff  700 Apr 17  2017 scan5b.sh
+ 45b3a75652c60a2c775e485335241106e282edb8  scan5b.sh
+23850042 8 -rwxr-xr-x@ 1 cservin  staff  1055 Apr 17  2017 scan5c.sh
+ a5c56ecc96bd8ab5a29ef14f59ab4f6d6790e808  scan5c.sh
+23850043 8 -rwxr-xr-x@ 1 cservin  staff  1085 Apr 17  2017 scan5d.sh
+ 28bbb5c76af4add9af6e671a2b56b03f76aabf10  scan5d.sh
+23850044 8 -rwxr-xr-x@ 1 cservin  staff  1192 Apr 17  2017 scan5e.sh
+ 8e7c700e1bfe48d109a6e8d12909dae63796758c  scan5e.sh
+23850045 8 -rwxr-xr-x@ 1 cservin  staff  1523 Apr 17  2017 scan5f.sh
+ 896f3373affd14c3960c5eb6c21df27465ed3de0  scan5f.sh
+23850046 8 -rwxr-xr-x@ 1 cservin  staff  1669 Apr 17  2017 scan5g.sh
+ bad535f8e8c0ab1194dccd0c3f5dacbd76171255  scan5g.sh
+23850047 8 -rwxr-xr-x@ 1 cservin  staff  1986 Mar 31  2017 scanBP.sh
+ ed2c3d3beaecbdc1971019981028ca4a16b45059  scanBP.sh
+23850048 8 -rwxr-xr-x@ 1 cservin  staff  1883 Apr 17  2017 scanP.sh
+ 6b133533b28ab5fd3439fa2a47697b964966ecae  scanP.sh
